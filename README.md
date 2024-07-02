@@ -17,4 +17,4 @@ To collect recipes in one location for easy review.
 No need to contribute - this is pretty basic! 
 
 ## License
-no licenses, but credit to [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes) for their inpiration and direction. 
+no licenses, but credit to [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes) for their inspiration and direction. 
