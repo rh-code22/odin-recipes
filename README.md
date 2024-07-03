@@ -6,7 +6,7 @@ I am going through each of The Odin Project (TOP) challenges in order to flex my
 
 ## Installation
 
-To view the site, go [here](rh-code22.github.io/odin-recipes).
+To view the site, go [here](https://rh-code22.github.io/odin-recipes/).
 
 
 ## Usage
