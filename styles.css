@@ -1,0 +1,14 @@
+
+/* CSS HEX */
+--deep-sky-blue: #5cc8ffff;
+--cinereous: #93867fff;
+--black-olive: #343633ff;
+--amethyst: #7d70baff;
+--mauve: #dec1ffff;
+
+/* CSS HSL */
+--deep-sky-blue: hsla(200, 100%, 68%, 1);
+--cinereous: hsla(21, 8%, 54%, 1);
+--black-olive: hsla(100, 3%, 21%, 1);
+--amethyst: hsla(251, 35%, 58%, 1);
+--mauve: hsla(268, 100%, 88%, 1);
